@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/linsy-valentines/static/css/main.a0076e7a.css",
-    "main.js": "/linsy-valentines/static/js/main.cea86594.js",
+    "main.js": "/linsy-valentines/static/js/main.b5bdad1f.js",
     "index.html": "/linsy-valentines/index.html",
     "main.a0076e7a.css.map": "/linsy-valentines/static/css/main.a0076e7a.css.map",
-    "main.cea86594.js.map": "/linsy-valentines/static/js/main.cea86594.js.map"
+    "main.b5bdad1f.js.map": "/linsy-valentines/static/js/main.b5bdad1f.js.map"
   },
   "entrypoints": [
     "static/css/main.a0076e7a.css",
-    "static/js/main.cea86594.js"
+    "static/js/main.b5bdad1f.js"
   ]
 }
